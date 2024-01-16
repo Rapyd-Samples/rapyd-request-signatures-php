@@ -18,3 +18,7 @@ The signing process helps secure requests in the following ways:
 - Open a terminal in the cloned directory and run `composer install`
 - In the same terminal window, run `php -S localhost:8000`
 - Turn on your browser and go to `http://localhost:8000`
+
+## Get Support 
+- https://community.rapyd.net 
+- https://support.rapyd.net 
